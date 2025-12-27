@@ -1,0 +1,18 @@
+# Environment variables (contains API keys)
+.env
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Numbers files (we use CSV exports)
+*.numbers
+
+# Claude Code
+.claude/
